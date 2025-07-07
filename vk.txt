@@ -1,1 +1,2 @@
 Hello I am Vikram
+Hello i am updating this text file after that i am not add this file again. Because its no need run git add again. We have -am this to handle and track the same file without add cmd
